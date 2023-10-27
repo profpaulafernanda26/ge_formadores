@@ -11,3 +11,8 @@ body{
     fonte-size: 32px;
     text-align: center;
 }
+.texto{
+    text-align: jutify;
+    color: gray;
+    font-size: 20px;
+}
