@@ -3,7 +3,7 @@ p{
 }
 
 body{
-    text-align: center;
+    text-align: align;
     font-size: 20px
     background-color: #451952;
 }
@@ -11,7 +11,6 @@ body{
 #titulo{
     fonte-size: 32px;
     text-align: center;
-    color: #AE445A;
 }
 .texto{
     text-align: justify;
@@ -22,4 +21,9 @@ body{
     width: 80%;
     margin: 24px;
     padding: 16px;
+}
+
+.título-principal{
+    background-image: linear-gradient(#ff1b6b, #ff5858);
+    color: black;
 }
