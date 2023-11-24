@@ -4,12 +4,12 @@ p{
 
 body{
     text-align: align;
-    font-size: 20px
+    font-size: 20px;
     background-color: #451952;
 }
 
 #titulo{
-    fonte-size: 32px;
+    font-size: 32px;
     text-align: center;
 }
 .texto{
