@@ -8,6 +8,13 @@ body{
     background-color: #451952;
 }
 
+.cabecalho{
+    padding: 20px;
+    background-color: #451952;
+    border-bottom: 5px solid white;
+    fo
+
+}
 #titulo{
     font-size: 32px;
     text-align: center;
